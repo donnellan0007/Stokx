@@ -1,3 +1,3 @@
 # Stokx / Shard
 
-![Logo](Stokx Logo White.png)
+![Logo](https://raw.githubusercontent.com/donnellan0007/Stokx/main/Stokx%20Logo%20White.png)
